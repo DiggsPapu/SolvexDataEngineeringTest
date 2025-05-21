@@ -10,15 +10,14 @@ Así mismo el ejercicio 1 no cargué todos los archivos al dataframe porque era 
 
 Se realizó el ejercicio 1 utilizando los datos de la universidad de John's Hopkins: <https://github.com/CSSEGISandData/COVID-19>
 
-Así mismo se utilizaron los datos de los folders:
-
-- csse_covid_19_data/csse_covid_19_daily_reports_us
+Así mismo se utilizaron los datos de este folder unicamente, esto porque los otros no eran globales si no que eran reportes de Estados Unidos y pdfs:
 
 - csse_covid_19_data/csse_covid_19_daily_reports
 
 ## Ejercicio 2
 
 Se realizó el ejercicio 2 utilizando los datos de: <https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr>
+Únicamente seleccioné los datos de 2015 tal como se pedía.
 
 ## Parte teórica
 
